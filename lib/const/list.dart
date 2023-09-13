@@ -1,0 +1,47 @@
+import 'package:e_commerce_app/const/images.dart';
+
+const socialIconList=[
+
+  icFacebookLogo,
+  icGoogleLogo,
+  icTwitterLogo
+];
+const sliderList=[
+  imgSlider1,imgSlider2,imgSlider3,imgSlider4
+];
+const secondSliderList=[
+  imgSs1,imgSs2,imgSs3,imgSs4
+];
+const featuredImage1=[
+  imgS1,imgS2,imgS3
+];
+const featuredImage2=[
+  imgS4,imgS5,imgS6
+];
+const featuredTitle1=[
+  "Women Dress","Girl Dresses","Girl Watches"
+];
+const featuredTitle2=[
+  "Boy Glasses","Mobile Phone","TShirts"
+];
+const categoryTitle=[
+  "Women Dress","Men Clothing & fashion","Computer & Accessories","Automobile",
+  "Kids & toy","Sports","Jewelry","Cell-Phone & Tab","Furniture"
+];
+const categoryImageList=[
+  imgWomenDress,imgFc1,imgFc2,imgFc3,imgFc4,imgFc5,imgJewelry,imgFc6,imgFc9
+];
+const  itemsDetailButtonList=[
+  "Video","Reviews","Privacy Policy","Return Policy","Support Policy"
+];
+const profileButtonIcon=[
+  icOrders,icWhiteTick,icMessages
+];
+const profileButtonList=[
+  "My Orders","My WishList","Messages"
+];
+
+const paymentImgList=[imgPaypal,imgStripe,imgCod];
+const paymentNameList=['PayPal','Stripe','Cash on Delivery '];
+
+
